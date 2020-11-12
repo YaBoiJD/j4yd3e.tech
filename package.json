@@ -1,0 +1,19 @@
+{
+  "name": "jd.tech",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaboijd/jd.tech.git"
+  },
+  "author": "Jacob Ellis Duncan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaboijd/jd.tech/issues"
+  },
+  "homepage": "https://github.com/yaboijd/jd.tech#readme"
+}
