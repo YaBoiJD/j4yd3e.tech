@@ -1,5 +1,5 @@
 {
-  "name": "jd.tech",
+  "name": "j4yd3e.tech",
   "version": "1.0.0",
   "description": "My personal website",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yaboijd/jd.tech.git"
+    "url": "git+https://github.com/yaboijd/j4yd3e.tech.git"
   },
   "author": "Jacob Ellis Duncan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yaboijd/jd.tech/issues"
+    "url": "https://github.com/yaboijd/j4yd3e.tech/issues"
   },
-  "homepage": "https://github.com/yaboijd/jd.tech#readme"
+  "homepage": "https://github.com/yaboijd/j4yd3e.tech#readme"
 }
